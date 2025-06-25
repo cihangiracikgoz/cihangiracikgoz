@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Cihangir 👋<br>🎓 I'm currently studying Computer Science at the University of Surrey.<br>✔️ I’ve successfully completed my first year and am excited to keep learning and growing in this field.<br>👨🏻‍💻 I’m passionate about Software Development and Game Development, and I’m always eager to take on new challenges and projects!<br><br>
+Hi, I'm Cihangir 👋<br>🎓 I'm currently studying Computer Science at the University of Surrey.<br>✔️ I’ve successfully completed my first year and am excited to keep learning and growing in this field.<br>👨🏻‍💻 I’m particularly passionate about Software and Game Development, and I’m always eager to take on new challenges and projects!<br><br>
 
 
 ## 🌐 Socials:
