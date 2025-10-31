@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Cihangir 👋<br>🎓 I'm currently studying Computer Science at the University of Surrey.<br>✔️ I’ve successfully completed my first year and am excited to keep learning and growing in this field.<br>👨🏻‍💻 I’m particularly passionate about Software and Game Development, and I’m always eager to take on new challenges and projects!<br><br>
+Hi, I'm Cihangir 👋<br>🎓 BSc Computer Science at the University of Surrey.<br>✔️ I’ve successfully completed my first year and am excited to keep learning and growing in this field.<br>👨🏻‍💻 I’m particularly passionate about Software and Game Development, and I’m always eager to take on new challenges and projects!<br><br>
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-2F74C0?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B)
