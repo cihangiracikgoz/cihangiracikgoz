@@ -1,15 +1,36 @@
-# 💫 About Me:
-Hi, I'm Cihangir 👋<br>🎓 BSc Computer Science at the University of Surrey.<br>✔️ I’ve successfully completed my first year and am excited to keep learning and growing in this field.<br>👨🏻‍💻 I’m particularly passionate about Software and Game Development, and I’m always eager to take on new challenges and projects!<br><br>
+# Hi there, I'm Cihangir 👋
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-2F74C0?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B)
- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cihangiracikgoz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=cihangiracikgoz&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cihangiracikgoz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm a second-year Computer Science student at the **University of Surrey**, passionate about building software that makes a difference.
+
+## 🎓 About Me
+
+- 🏫 BSc Computer Science at University of Surrey
+- 💻 Exploring various areas of software and game development
+- 🌱 Always learning new technologies and improving my skills
+- 📍 Guildford, United Kingdom
+
+## 🛠️ Technical Skills
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css,sql" />
+</p>
+
+### Technologies & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,django,git,github,vscode,eclipse" />
+</p>
+
+## 📫 Connect With Me
+
+- Email: cihangiracikgoz01@gmail.com
+- LinkedIn: https://www.linkedin.com/in/cihangiracikgoz/
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cihangiracikgoz&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cihangiracikgoz&layout=compact&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cihangiracikgoz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
