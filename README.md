@@ -22,9 +22,9 @@ I'm a second-year Computer Science student at the **University of Surrey**, pass
 </p>
 
 ## 📫 Connect With Me
-
-- Email: cihangiracikgoz01@gmail.com
+ 
 - LinkedIn: https://www.linkedin.com/in/cihangiracikgoz/
+- Instagram: https://www.instagram.com/cihangiracikgoz/
 
 ## 📊 GitHub Stats
 
