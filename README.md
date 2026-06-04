@@ -21,11 +21,6 @@ I'm a second-year Computer Science student at the **University of Surrey**, pass
   <img src="https://skillicons.dev/icons?i=react,django,git,github,vscode,eclipse" />
 </p>
 
-## 📫 Connect With Me
- 
-- LinkedIn: https://www.linkedin.com/in/cihangiracikgoz/
-- Instagram: https://www.instagram.com/cihangiracikgoz/
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=cihangiracikgoz&show_icons=true&theme=radical)
